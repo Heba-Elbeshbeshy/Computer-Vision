@@ -1,3 +1,6 @@
 [submodule "Task1_CV"]
 	path = Task1_CV
 	url = https://github.com/Heba-Elbeshbeshy/Task1_CV.git
+[submodule "Task-2-CV"]
+	path = Task-2-CV
+	url = https://github.com/Heba-Elbeshbeshy/Task-2-CV
