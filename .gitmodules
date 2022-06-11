@@ -4,3 +4,6 @@
 [submodule "Task-2-CV"]
 	path = Task-2-CV
 	url = https://github.com/Heba-Elbeshbeshy/Task-2-CV
+[submodule "Task-3-CV"]
+	path = Task-3-CV
+	url = https://github.com/Heba-Elbeshbeshy/Task-3-CV
